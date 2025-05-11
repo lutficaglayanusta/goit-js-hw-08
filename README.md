@@ -22,7 +22,5 @@ This project uses the following external library:
 
 The library is included via a CDN in the `index.html` file.
 
-## Preview
 
-![Gallery Preview](https://via.placeholder.com/800x400?text=Gallery+Preview)
 
